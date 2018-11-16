@@ -1,4 +1,4 @@
-THESIS & Disseration Template:
+#THESIS & Disseration Template:
 Department of Computer Science
 University of Illinois at  Chicago
 Edited by Chainarong Amornbunchornvej.
